@@ -37,7 +37,7 @@ Cierre de sesión con eliminación de cookies.
 Notificaciones pasivas de errores y estados.
 
 ## 🛠️ Autor y contacto
-Desarrollado por los siguientes parnedices del SENA para el programa tecnológico Análisis y Desarrollo de Software: <br>
+Desarrollado por los siguientes aprendices del SENA para el programa tecnológico en Análisis y Desarrollo de Software: <br>
 - Edwin Ramírez Sosa
 - Jesús David Eslava
 - Jhon Edward Lucumi Collazos
